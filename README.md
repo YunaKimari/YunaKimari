@@ -23,4 +23,4 @@
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-💻 Desenvolvedora com 3 anos de experiência no mercado, apaixonada por jogos e por poder criar aplicações que auxiliam no dia a dia.
+💻 Desenvolvedora, apaixonada por jogos e pelo poder de criar aplicações que auxiliam no dia a dia.
