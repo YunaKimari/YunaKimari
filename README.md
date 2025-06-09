@@ -1,9 +1,11 @@
 ### Olá, eu sou a Denise Rocha ☺️
 
+💻 Desenvolvedora, apaixonada por jogos e pelo poder de criar aplicações que auxiliam no dia a dia.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisefigrocha/)
 
 ![Denise GitHub stats](https://github-readme-stats.vercel.app/api?username=yunakimari&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunakimari)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunakimari&hide=jupyter&layout=compact&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -22,5 +24,3 @@
   <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-
-💻 Desenvolvedora, apaixonada por jogos e pelo poder de criar aplicações que auxiliam no dia a dia.
