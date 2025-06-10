@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisefigrocha/)
 
 ![Denise GitHub stats](https://github-readme-stats.vercel.app/api?username=yunakimari&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunakimari&hide=jupyter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunakimari&hide=jupyter&layout=compact&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
